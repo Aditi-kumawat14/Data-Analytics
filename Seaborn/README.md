@@ -38,8 +38,6 @@ This repository contains my hands-on practice and learning of **Seaborn**, a Pyt
 The notebook uses Seaborn's built-in datasets such as:
 
 - tips
-- iris (optional)
-- penguins (optional)
 
 ## 🚀 How to Run
 
